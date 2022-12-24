@@ -22,7 +22,7 @@ you can download dataset from https://www.kaggle.com/datasets/sid321axn/maliciou
 > Malware URLs: When a victim visits one of these URLs, malware is introduced into the victim's system.
 
 ## Methodology
-* Feature engineering
+* Feature extraction
   - having_ip
   - count_dot
   - AtSign
